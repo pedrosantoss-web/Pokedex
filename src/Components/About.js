@@ -56,8 +56,8 @@ export default function About() {
       
     <footer>
       <nav>
-        <a href=""><img src={git}/></a>
-        <a href=""><img src={lk}/></a>
+        <a href="https://github.com/pedrosantoss-web"><img src={git}/></a>
+        <a href="https://www.linkedin.com/in/pedro-santos-dev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSRL0Z1afRu6T31gMjXgpdg%3D%3D"><img src={lk}/></a>
       </nav>
     </footer>
     </main>
